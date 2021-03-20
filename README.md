@@ -1,4 +1,4 @@
-# ERiqabWarden
+# E-Riqab Warden
 
 The project is named as Sistem E-Riqab (E-Riqab System) which was developed for Majlis
 Agama Islam Selangor MAIS (Selangor Islamic Religious Council). This is a web-based system
