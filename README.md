@@ -6,5 +6,4 @@ along with an Android-based mobile app which serves as the data-entry point into
 system.
 
 ![alt text](https://github.com/fazeel123/ERiqabWarden/blob/master/warden_1.PNG)
-
 ![alt text](https://github.com/fazeel123/ERiqabWarden/blob/master/warden_2.PNG)
